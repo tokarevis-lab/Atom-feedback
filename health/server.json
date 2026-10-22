@@ -1,0 +1,81 @@
+{
+  "generated_at": "2026-10-22 12:38:07",
+  "version": {
+    "sha": "024a407",
+    "date": "2026-10-22T17:33:19+05:00",
+    "subject": "Состояние сервера по запросу разработчика (для разбора без доступа к серверу) [срочно]"
+  },
+  "update": {
+    "state": "updating",
+    "message": "024a407 — Состояние сервера по запросу разработчика (для разбора без доступа к серверу) [срочно]",
+    "checked_at": "2026-10-22 12:37:16",
+    "updated_at": "2026-10-22 12:33:38"
+  },
+  "summary": {
+    "schema": 5,
+    "conversations_open": 1,
+    "conversations_unassigned": 0,
+    "messages_in_24h": 17,
+    "last_event_at": "2026-10-22 12:33:48",
+    "active_sessions_last_hour": {
+      "advisor": 3,
+      "owner": 1
+    }
+  },
+  "channels": [
+    {
+      "id": 1,
+      "kind": "vk",
+      "name": "VK Genri F",
+      "enabled": true,
+      "last_ok_at": "2026-10-22 12:38:00",
+      "last_error": "",
+      "last_error_at": null,
+      "cursor_set": true,
+      "inbound_24h": 2,
+      "last_inbound_at": "2026-10-22 10:35:54",
+      "last_outbound_at": "2026-10-22 10:35:55",
+      "failed_sends_24h": 0,
+      "live": {
+        "ok": true,
+        "result": "ВК: сообщество «\"Генри Ф\" Автосервис Магнитогорск» подключено."
+      }
+    },
+    {
+      "id": 2,
+      "kind": "vk",
+      "name": "ВК Штутгарт",
+      "enabled": true,
+      "last_ok_at": "2026-10-22 12:38:00",
+      "last_error": "",
+      "last_error_at": null,
+      "cursor_set": true,
+      "inbound_24h": 11,
+      "last_inbound_at": "2026-10-22 12:11:13",
+      "last_outbound_at": "2026-10-22 12:29:43",
+      "failed_sends_24h": 0,
+      "live": {
+        "ok": true,
+        "result": "ВК: сообщество «Автосервис Штутгарт» подключено."
+      }
+    },
+    {
+      "id": 3,
+      "kind": "max",
+      "name": "MAX Штутгарт/Генри Ф",
+      "enabled": true,
+      "last_ok_at": "2026-10-22 12:37:50",
+      "last_error": "",
+      "last_error_at": "2026-10-22 06:21:54",
+      "cursor_set": true,
+      "inbound_24h": 4,
+      "last_inbound_at": "2026-10-22 12:33:48",
+      "last_outbound_at": "2026-10-22 06:53:18",
+      "failed_sends_24h": 0,
+      "live": {
+        "ok": true,
+        "result": "MAX: бот «Автосервис Штутгарт/Генри Ф» подключён."
+      }
+    }
+  ]
+}

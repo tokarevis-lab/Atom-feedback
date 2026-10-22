@@ -1,0 +1,16 @@
+Запрос: 20261022-1745
+Время сервера: 2026-10-22 15:38:07 MSK
+Работает: up 17 hours, 12 minutes
+atom: deactivating
+caddy: active
+atom-autoupdate.timer: active
+atom-feedback-sync.timer: active
+atom-backup.timer: active
+
+Диск:
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/vda2        40G  4.3G   34G  12% /
+
+Обновление: {"state": "updating", "message": "024a407 — Состояние сервера по запросу разработчика (для разбора без доступа к серверу) [срочно]", "checked_at": "2026-10-22 12:37:16", "updated_at": "2026-10-22 12:33:38"}
+
+Ошибки и предупреждения программы за 12 часов (последние 60):
