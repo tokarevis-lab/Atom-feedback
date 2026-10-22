@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-10-22 18:39:34",
+  "generated_at": "2026-10-22 20:01:57",
   "version": {
-    "sha": "ca84660",
-    "date": "2026-10-22T23:35:55+05:00",
-    "subject": "Непрочитанное: после ответа клиенту или закрытия — прочитано для всех"
+    "sha": "8d04192",
+    "date": "2026-10-23T01:00:11+05:00",
+    "subject": "Автоответы включены (тексты подтверждены владельцем); выходные дни сервиса 31.12, 1, 2 и 7 января"
   },
   "update": {
     "state": "ok",
     "message": "",
-    "checked_at": "2026-10-22 18:38:51",
-    "updated_at": "2026-10-22 18:38:51"
+    "checked_at": "2026-10-22 20:01:27",
+    "updated_at": "2026-10-22 20:01:27"
   },
   "summary": {
-    "schema": 8,
+    "schema": 10,
     "conversations_open": 1,
-    "conversations_unassigned": 0,
-    "messages_in_24h": 17,
-    "last_event_at": "2026-10-22 12:33:48",
+    "conversations_unassigned": 1,
+    "messages_in_24h": 21,
+    "last_event_at": "2026-10-22 19:54:54",
     "active_sessions_last_hour": {
-      "storekeeper": 1
+      "owner": 1
     }
   },
   "channels": [
@@ -27,12 +27,12 @@
       "kind": "vk",
       "name": "VK Genri F",
       "enabled": true,
-      "last_ok_at": "2026-10-22 18:39:13",
+      "last_ok_at": "2026-10-22 20:01:49",
       "last_error": "",
       "last_error_at": null,
       "cursor_set": true,
-      "inbound_24h": 2,
-      "last_inbound_at": "2026-10-22 10:35:54",
+      "inbound_24h": 3,
+      "last_inbound_at": "2026-10-22 19:54:54",
       "last_outbound_at": "2026-10-22 10:35:55",
       "failed_sends_24h": 0,
       "live": {
@@ -45,7 +45,7 @@
       "kind": "vk",
       "name": "ВК Штутгарт",
       "enabled": true,
-      "last_ok_at": "2026-10-22 18:39:13",
+      "last_ok_at": "2026-10-22 20:01:49",
       "last_error": "",
       "last_error_at": null,
       "cursor_set": true,
@@ -63,12 +63,12 @@
       "kind": "max",
       "name": "MAX Штутгарт/Генри Ф",
       "enabled": true,
-      "last_ok_at": "2026-10-22 18:39:21",
+      "last_ok_at": "2026-10-22 20:01:02",
       "last_error": "",
       "last_error_at": "2026-10-22 06:21:54",
       "cursor_set": true,
-      "inbound_24h": 4,
-      "last_inbound_at": "2026-10-22 12:33:48",
+      "inbound_24h": 7,
+      "last_inbound_at": "2026-10-22 19:47:31",
       "last_outbound_at": "2026-10-22 06:53:18",
       "failed_sends_24h": 0,
       "live": {
