@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22 20:01:57",
+  "generated_at": "2026-10-22 20:12:17",
   "version": {
     "sha": "8d04192",
     "date": "2026-10-23T01:00:11+05:00",
@@ -8,15 +8,15 @@
   "update": {
     "state": "ok",
     "message": "",
-    "checked_at": "2026-10-22 20:01:27",
+    "checked_at": "2026-10-22 20:11:27",
     "updated_at": "2026-10-22 20:01:27"
   },
   "summary": {
     "schema": 10,
     "conversations_open": 1,
     "conversations_unassigned": 1,
-    "messages_in_24h": 21,
-    "last_event_at": "2026-10-22 19:54:54",
+    "messages_in_24h": 24,
+    "last_event_at": "2026-10-22 20:09:28",
     "active_sessions_last_hour": {
       "owner": 1
     }
@@ -27,12 +27,12 @@
       "kind": "vk",
       "name": "VK Genri F",
       "enabled": true,
-      "last_ok_at": "2026-10-22 20:01:49",
+      "last_ok_at": "2026-10-22 20:12:09",
       "last_error": "",
       "last_error_at": null,
       "cursor_set": true,
-      "inbound_24h": 3,
-      "last_inbound_at": "2026-10-22 19:54:54",
+      "inbound_24h": 4,
+      "last_inbound_at": "2026-10-22 20:09:13",
       "last_outbound_at": "2026-10-22 10:35:55",
       "failed_sends_24h": 0,
       "live": {
@@ -45,12 +45,12 @@
       "kind": "vk",
       "name": "ВК Штутгарт",
       "enabled": true,
-      "last_ok_at": "2026-10-22 20:01:49",
+      "last_ok_at": "2026-10-22 20:12:01",
       "last_error": "",
       "last_error_at": null,
       "cursor_set": true,
-      "inbound_24h": 11,
-      "last_inbound_at": "2026-10-22 12:11:13",
+      "inbound_24h": 12,
+      "last_inbound_at": "2026-10-22 20:09:28",
       "last_outbound_at": "2026-10-22 12:29:43",
       "failed_sends_24h": 0,
       "live": {
@@ -63,13 +63,13 @@
       "kind": "max",
       "name": "MAX Штутгарт/Генри Ф",
       "enabled": true,
-      "last_ok_at": "2026-10-22 20:01:02",
+      "last_ok_at": "2026-10-22 20:11:49",
       "last_error": "",
       "last_error_at": "2026-10-22 06:21:54",
       "cursor_set": true,
-      "inbound_24h": 7,
-      "last_inbound_at": "2026-10-22 19:47:31",
-      "last_outbound_at": "2026-10-22 06:53:18",
+      "inbound_24h": 8,
+      "last_inbound_at": "2026-10-22 20:08:48",
+      "last_outbound_at": "2026-10-22 20:08:49",
       "failed_sends_24h": 0,
       "live": {
         "ok": true,
