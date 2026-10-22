@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-10-22 13:11:06",
+  "generated_at": "2026-10-22 18:37:33",
   "version": {
-    "sha": "440d3b4",
-    "date": "2026-10-22T18:06:00+05:00",
-    "subject": "Часы ответа как в первой версии: 30/60 каждый раз, сигнал на 60, после ответа «Ждём клиента» [срочно]"
+    "sha": "f8671fc",
+    "date": "2026-10-22T21:16:54+05:00",
+    "subject": "Склад: 78 см на полную бочку (л/см считается сам), 7 позиций с артикулами по фото, «+ Добавить позицию», журнал проверок только для чтения"
   },
   "update": {
-    "state": "ok",
-    "message": "",
-    "checked_at": "2026-10-22 13:10:39",
-    "updated_at": "2026-10-22 13:10:39"
+    "state": "updating",
+    "message": "ca84660 — Непрочитанное: после ответа клиенту или закрытия — прочитано для всех",
+    "checked_at": "2026-10-22 18:37:26",
+    "updated_at": "2026-10-22 16:24:54"
   },
   "summary": {
-    "schema": 6,
+    "schema": 8,
     "conversations_open": 1,
     "conversations_unassigned": 0,
     "messages_in_24h": 17,
     "last_event_at": "2026-10-22 12:33:48",
     "active_sessions_last_hour": {
-      "advisor": 3
+      "owner": 1
     }
   },
   "channels": [
@@ -27,7 +27,7 @@
       "kind": "vk",
       "name": "VK Genri F",
       "enabled": true,
-      "last_ok_at": "2026-10-22 13:11:00",
+      "last_ok_at": "2026-10-22 18:37:21",
       "last_error": "",
       "last_error_at": null,
       "cursor_set": true,
@@ -45,7 +45,7 @@
       "kind": "vk",
       "name": "ВК Штутгарт",
       "enabled": true,
-      "last_ok_at": "2026-10-22 13:11:00",
+      "last_ok_at": "2026-10-22 18:37:21",
       "last_error": "",
       "last_error_at": null,
       "cursor_set": true,
@@ -63,7 +63,7 @@
       "kind": "max",
       "name": "MAX Штутгарт/Генри Ф",
       "enabled": true,
-      "last_ok_at": "2026-10-22 13:10:21",
+      "last_ok_at": "2026-10-22 18:37:16",
       "last_error": "",
       "last_error_at": "2026-10-22 06:21:54",
       "cursor_set": true,

@@ -1,6 +1,6 @@
-Запрос: 20261022-1820
-Время сервера: 2026-10-22 16:11:06 MSK
-Работает: up 17 hours, 45 minutes
+Запрос: 20261022-2340
+Время сервера: 2026-10-22 21:37:33 MSK
+Работает: up 23 hours, 12 minutes
 atom: active
 caddy: active
 atom-autoupdate.timer: active
@@ -11,6 +11,6 @@ atom-backup.timer: active
 Filesystem      Size  Used Avail Use% Mounted on
 /dev/vda2        40G  4.3G   34G  12% /
 
-Обновление: {"state": "ok", "message": "", "checked_at": "2026-10-22 13:10:39", "updated_at": "2026-10-22 13:10:39"}
+Обновление: {"state": "updating", "message": "ca84660 — Непрочитанное: после ответа клиенту или закрытия — прочитано для всех", "checked_at": "2026-10-22 18:37:26", "updated_at": "2026-10-22 16:24:54"}
 
 Ошибки и предупреждения программы за 12 часов (последние 60):
