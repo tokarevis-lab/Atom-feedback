@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-22 12:38:07",
+  "generated_at": "2026-10-22 12:40:08",
   "version": {
     "sha": "024a407",
     "date": "2026-10-22T17:33:19+05:00",
     "subject": "Состояние сервера по запросу разработчика (для разбора без доступа к серверу) [срочно]"
   },
   "update": {
-    "state": "updating",
-    "message": "024a407 — Состояние сервера по запросу разработчика (для разбора без доступа к серверу) [срочно]",
-    "checked_at": "2026-10-22 12:37:16",
-    "updated_at": "2026-10-22 12:33:38"
+    "state": "ok",
+    "message": "",
+    "checked_at": "2026-10-22 12:38:58",
+    "updated_at": "2026-10-22 12:38:57"
   },
   "summary": {
     "schema": 5,
@@ -28,7 +28,7 @@
       "kind": "vk",
       "name": "VK Genri F",
       "enabled": true,
-      "last_ok_at": "2026-10-22 12:38:00",
+      "last_ok_at": "2026-10-22 12:40:03",
       "last_error": "",
       "last_error_at": null,
       "cursor_set": true,
@@ -46,7 +46,7 @@
       "kind": "vk",
       "name": "ВК Штутгарт",
       "enabled": true,
-      "last_ok_at": "2026-10-22 12:38:00",
+      "last_ok_at": "2026-10-22 12:40:03",
       "last_error": "",
       "last_error_at": null,
       "cursor_set": true,
@@ -64,7 +64,7 @@
       "kind": "max",
       "name": "MAX Штутгарт/Генри Ф",
       "enabled": true,
-      "last_ok_at": "2026-10-22 12:37:50",
+      "last_ok_at": "2026-10-22 12:39:57",
       "last_error": "",
       "last_error_at": "2026-10-22 06:21:54",
       "cursor_set": true,
