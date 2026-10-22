@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-22 12:56:35",
+  "generated_at": "2026-10-22 13:11:06",
   "version": {
-    "sha": "c41e62b",
-    "date": "2026-10-22T17:52:12+05:00",
-    "subject": "Новое сообщение после закрытия снова открывает обращение (ошибка после объединения карточек) [срочно]"
+    "sha": "440d3b4",
+    "date": "2026-10-22T18:06:00+05:00",
+    "subject": "Часы ответа как в первой версии: 30/60 каждый раз, сигнал на 60, после ответа «Ждём клиента» [срочно]"
   },
   "update": {
     "state": "ok",
     "message": "",
-    "checked_at": "2026-10-22 12:54:49",
-    "updated_at": "2026-10-22 12:54:49"
+    "checked_at": "2026-10-22 13:10:39",
+    "updated_at": "2026-10-22 13:10:39"
   },
   "summary": {
-    "schema": 5,
+    "schema": 6,
     "conversations_open": 1,
     "conversations_unassigned": 0,
     "messages_in_24h": 17,
@@ -27,7 +27,7 @@
       "kind": "vk",
       "name": "VK Genri F",
       "enabled": true,
-      "last_ok_at": "2026-10-22 12:56:16",
+      "last_ok_at": "2026-10-22 13:11:00",
       "last_error": "",
       "last_error_at": null,
       "cursor_set": true,
@@ -45,7 +45,7 @@
       "kind": "vk",
       "name": "ВК Штутгарт",
       "enabled": true,
-      "last_ok_at": "2026-10-22 12:56:16",
+      "last_ok_at": "2026-10-22 13:11:00",
       "last_error": "",
       "last_error_at": null,
       "cursor_set": true,
@@ -63,7 +63,7 @@
       "kind": "max",
       "name": "MAX Штутгарт/Генри Ф",
       "enabled": true,
-      "last_ok_at": "2026-10-22 12:56:19",
+      "last_ok_at": "2026-10-22 13:10:21",
       "last_error": "",
       "last_error_at": "2026-10-22 06:21:54",
       "cursor_set": true,
