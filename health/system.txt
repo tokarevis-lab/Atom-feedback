@@ -1,7 +1,7 @@
-Запрос: 20261022-1800
-Время сервера: 2026-10-22 15:54:33 MSK
-Работает: up 17 hours, 29 minutes
-atom: deactivating
+Запрос: 20261022-1805
+Время сервера: 2026-10-22 15:56:35 MSK
+Работает: up 17 hours, 31 minutes
+atom: active
 caddy: active
 atom-autoupdate.timer: active
 atom-feedback-sync.timer: active
@@ -11,6 +11,6 @@ atom-backup.timer: active
 Filesystem      Size  Used Avail Use% Mounted on
 /dev/vda2        40G  4.3G   34G  12% /
 
-Обновление: {"state": "updating", "message": "c41e62b — Новое сообщение после закрытия снова открывает обращение (ошибка после объединения карточек) [срочно]", "checked_at": "2026-10-22 12:53:04", "updated_at": "2026-10-22 12:38:57"}
+Обновление: {"state": "ok", "message": "", "checked_at": "2026-10-22 12:54:49", "updated_at": "2026-10-22 12:54:49"}
 
 Ошибки и предупреждения программы за 12 часов (последние 60):
