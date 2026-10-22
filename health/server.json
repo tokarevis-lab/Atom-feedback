@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-10-22 20:18:36",
+  "generated_at": "2026-10-22 20:32:57",
   "version": {
-    "sha": "ab21e11",
-    "date": "2026-10-23T01:13:05+05:00",
-    "subject": "Автоответ — в каждый чат клиента отдельно"
+    "sha": "3b5285d",
+    "date": "2026-10-23T01:31:17+05:00",
+    "subject": "Ночные обращения раздаются поровну в 9:15"
   },
   "update": {
     "state": "ok",
     "message": "",
-    "checked_at": "2026-10-22 20:16:51",
-    "updated_at": "2026-10-22 20:16:51"
+    "checked_at": "2026-10-22 20:32:41",
+    "updated_at": "2026-10-22 20:32:41"
   },
   "summary": {
     "schema": 10,
     "conversations_open": 1,
     "conversations_unassigned": 1,
-    "messages_in_24h": 24,
-    "last_event_at": "2026-10-22 20:09:28",
+    "messages_in_24h": 26,
+    "last_event_at": "2026-10-22 20:24:42",
     "active_sessions_last_hour": {
       "owner": 1
     }
@@ -27,13 +27,13 @@
       "kind": "vk",
       "name": "VK Genri F",
       "enabled": true,
-      "last_ok_at": "2026-10-22 20:18:19",
+      "last_ok_at": "2026-10-22 20:32:22",
       "last_error": "",
       "last_error_at": null,
       "cursor_set": true,
-      "inbound_24h": 4,
-      "last_inbound_at": "2026-10-22 20:09:13",
-      "last_outbound_at": "2026-10-22 10:35:55",
+      "inbound_24h": 5,
+      "last_inbound_at": "2026-10-22 20:24:42",
+      "last_outbound_at": "2026-10-22 20:24:42",
       "failed_sends_24h": 0,
       "live": {
         "ok": true,
@@ -45,13 +45,13 @@
       "kind": "vk",
       "name": "ВК Штутгарт",
       "enabled": true,
-      "last_ok_at": "2026-10-22 20:18:19",
+      "last_ok_at": "2026-10-22 20:32:31",
       "last_error": "",
       "last_error_at": null,
       "cursor_set": true,
-      "inbound_24h": 12,
-      "last_inbound_at": "2026-10-22 20:09:28",
-      "last_outbound_at": "2026-10-22 12:29:43",
+      "inbound_24h": 13,
+      "last_inbound_at": "2026-10-22 20:24:29",
+      "last_outbound_at": "2026-10-22 20:24:29",
       "failed_sends_24h": 0,
       "live": {
         "ok": true,
@@ -63,7 +63,7 @@
       "kind": "max",
       "name": "MAX Штутгарт/Генри Ф",
       "enabled": true,
-      "last_ok_at": "2026-10-22 20:18:21",
+      "last_ok_at": "2026-10-22 20:32:22",
       "last_error": "",
       "last_error_at": "2026-10-22 06:21:54",
       "cursor_set": true,
