@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-22 20:16:28",
+  "generated_at": "2026-10-22 20:18:36",
   "version": {
-    "sha": "8d04192",
-    "date": "2026-10-23T01:00:11+05:00",
-    "subject": "Автоответы включены (тексты подтверждены владельцем); выходные дни сервиса 31.12, 1, 2 и 7 января"
+    "sha": "ab21e11",
+    "date": "2026-10-23T01:13:05+05:00",
+    "subject": "Автоответ — в каждый чат клиента отдельно"
   },
   "update": {
     "state": "ok",
     "message": "",
-    "checked_at": "2026-10-22 20:11:27",
-    "updated_at": "2026-10-22 20:01:27"
+    "checked_at": "2026-10-22 20:16:51",
+    "updated_at": "2026-10-22 20:16:51"
   },
   "summary": {
     "schema": 10,
@@ -27,7 +27,7 @@
       "kind": "vk",
       "name": "VK Genri F",
       "enabled": true,
-      "last_ok_at": "2026-10-22 20:16:10",
+      "last_ok_at": "2026-10-22 20:18:19",
       "last_error": "",
       "last_error_at": null,
       "cursor_set": true,
@@ -45,7 +45,7 @@
       "kind": "vk",
       "name": "ВК Штутгарт",
       "enabled": true,
-      "last_ok_at": "2026-10-22 20:16:24",
+      "last_ok_at": "2026-10-22 20:18:19",
       "last_error": "",
       "last_error_at": null,
       "cursor_set": true,
@@ -63,7 +63,7 @@
       "kind": "max",
       "name": "MAX Штутгарт/Генри Ф",
       "enabled": true,
-      "last_ok_at": "2026-10-22 20:16:19",
+      "last_ok_at": "2026-10-22 20:18:21",
       "last_error": "",
       "last_error_at": "2026-10-22 06:21:54",
       "cursor_set": true,
