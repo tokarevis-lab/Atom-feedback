@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23 12:38:29",
+  "generated_at": "2026-10-23 12:40:27",
   "version": {
     "sha": "3b5285d",
     "date": "2026-10-23T01:31:17+05:00",
@@ -28,7 +28,7 @@
       "kind": "vk",
       "name": "VK Genri F",
       "enabled": true,
-      "last_ok_at": "2026-10-23 12:37:57",
+      "last_ok_at": "2026-10-23 12:40:09",
       "last_error": "",
       "last_error_at": "2026-10-22 22:01:20",
       "cursor_set": true,
@@ -46,7 +46,7 @@
       "kind": "vk",
       "name": "ВК Штутгарт",
       "enabled": true,
-      "last_ok_at": "2026-10-23 12:37:58",
+      "last_ok_at": "2026-10-23 12:40:09",
       "last_error": "",
       "last_error_at": "2026-10-22 22:01:20",
       "cursor_set": true,
@@ -64,7 +64,7 @@
       "kind": "max",
       "name": "MAX Штутгарт/Генри Ф",
       "enabled": true,
-      "last_ok_at": "2026-10-23 12:37:56",
+      "last_ok_at": "2026-10-23 12:39:56",
       "last_error": "",
       "last_error_at": "2026-10-22 06:21:54",
       "cursor_set": true,
